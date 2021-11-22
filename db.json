@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Description of Product 1"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Description of Product 2"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Description of Product 3"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "fitness",
+      "price": 4000,
+      "description": "Description of Product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "category": "fruits",
+      "price": 4000,
+      "description": "Description of Product 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Description of Product 5"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "category": "electronics",
+      "price": 3000,
+      "description": "Description of Product 6"
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "category": "electronics",
+      "price": 2500,
+      "description": "Description of Product 7"
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Description of Product 8"
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "category": "electronics",
+      "price": 8000,
+      "description": "Description of Product 9"
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "category": "books",
+      "price": 1000,
+      "description": "Description of Product 10"
+    },
+    {
+      "id": 11,
+      "title": "Product 11",
+      "category": "electronics",
+      "price": 400867,
+      "description": "This is just a product 11"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 3,
+      "comment": "Review 1 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "comment": "Review 2 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "comment": "Review 3 for product 1",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "comment": "Review 4 for product 2",
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "rating": 4,
+      "comment": "Review 5 for product 3",
+      "productId": 3
+    }
+  ]
+}
